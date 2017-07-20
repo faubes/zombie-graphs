@@ -15,4 +15,4 @@ CopsAndRobbersBasic and ZombiesAndSurvivorsBasic allow you to play the games wit
 
 ZombiesAndSurvivorsGame is an attempt to add a GUI using JUNG's graph drawing capabilities. I decided it required refactoring and some sort oF MVC pattern to make it nice and so gave up on that. For now, it allows you to draw a given graph in a bare applet.
 
-The ZombiesAndSurvivorsUtils class contains Floyd Warshall and other algorithms for trying to solve the game.
+The ZombiesAndSurvivorsUtils class contains Floyd Warshall and other algorithms for trying to solve the game, and checking for valid moves.
